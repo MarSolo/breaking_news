@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f953e9d99dd0a40128bedebd14d0d9f9
+timeCreated: 1487035909
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hit the Road
+  fontNames:
+  - Hit the Road
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
